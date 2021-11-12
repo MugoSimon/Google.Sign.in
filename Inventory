@@ -1,0 +1,5 @@
+# Google.Sign.in
+How to signin using google, short version
+Not customized, but the functionality is at perfection.
+requestIdToken: use the one provided at your .json file
+sources both username and user's profile picture.
