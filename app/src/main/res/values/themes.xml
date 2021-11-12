@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Signin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary_intern</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark_intern</item>
+        <item name="colorOnPrimary">@color/colorPrimary_employer</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/gradient_start_color</item>
+        <item name="colorSecondaryVariant">@color/gradient_end_color</item>
+        <item name="colorOnSecondary">@color/intro_title_color</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

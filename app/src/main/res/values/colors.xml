@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- styling of the intern side -->
+    <color name="colorPrimary_intern">#6191FA</color>
+    <color name="colorPrimaryDark_intern">#056CAF</color>
+    <color name="colorAccent_intern">#E6B82BFF</color>
+
+    <!-- styling of the employer side -->
+    <color name="colorPrimary_employer">#FFFFFF</color>
+    <color name="colorPrimaryDark_employer">#D5514E4E</color>
+    <color name="colorAccent_employer">#00020A</color>
+
+    <!--colors za buttons -->
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!--coloring customization-->
+    <color name="intro_title_color">#000000</color>
+    <color name="info_description_color">#656565</color>
+    <color name="faded">#CEC8C8</color>
+    <color name="red_rolex">#F2F40707</color>
+
+
+</resources>

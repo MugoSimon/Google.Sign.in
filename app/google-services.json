@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449578568333",
+    "project_id": "signin-b9a0e",
+    "storage_bucket": "signin-b9a0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449578568333:android:489dfa17e48ce82667f0c4",
+        "android_client_info": {
+          "package_name": "lastie_wangechian_signin.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449578568333-veoftdbdr0gj0i0bhqnllipjrsecvipo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbxWNOHzhkKCtWvt736AuP0VwczaRH6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449578568333-veoftdbdr0gj0i0bhqnllipjrsecvipo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
